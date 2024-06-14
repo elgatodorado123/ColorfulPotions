@@ -1,5 +1,8 @@
 # Colorful Potions
 
+## Gameplay
+
+https://github.com/elgatodorado123/ColorfulPotions/assets/124149726/e4e70ecc-a208-4bf1-8ac9-b8e4aadb8f24
 
 ## Como jugar
 
